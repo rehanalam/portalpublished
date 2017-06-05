@@ -33,15 +33,15 @@ Simple calculator API hosted on APIMATIC
 #### Query Parameters
 | Parameter | Type | Tags | Description | Example |
 |-----------|------| ---- |-------------| ------- |
-| x | `precision` |  ``` Required ```  | The LHS value | `31.6133221875007` | 
-| y | `precision` |  ``` Required ```  | The RHS value | `31.6133221875007` | 
+| x | `precision` |  ``` Required ```  | The LHS value | `127.391270199973` | 
+| y | `precision` |  ``` Required ```  | The RHS value | `218.886552091635` | 
 
 #### Responses
 **200** 
 
 Body (_precision_) 
 ```
-31.6133221875007
+218.886552091635
 ```
 
 
@@ -52,7 +52,7 @@ Body (_CouldNotCompute_)
 ```
 {
   "ServerMessage": "ServerMessage",
-  "ServerCode": 31
+  "ServerCode": 177
 }
 ```
 
