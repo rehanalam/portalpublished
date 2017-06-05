@@ -156,10 +156,10 @@ function getCalculate($options)
 $operation = string::SUM;
 $collect['operation'] = $operation;
 
-$x = 158.068090364369;
+$x = 234.301617776184;
 $collect['x'] = $x;
 
-$y = 158.068090364369;
+$y = 234.301617776184;
 $collect['y'] = $y;
 
 
