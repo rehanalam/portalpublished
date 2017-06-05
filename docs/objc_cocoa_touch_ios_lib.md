@@ -107,8 +107,8 @@ function getCalculateAsyncWithGetCalculateInput:(GetCalculateInput*) input
     // Parameters for the API call
     GetCalculateInput *input = [[GetCalculateInput alloc]init];
     input.operation = SUM;
-    input.x = 32.5173117301973;
-    input.y = 32.5173117301973;
+    input.x = 129.783489429291;
+    input.y = 129.783489429291;
 
     [self.simpleCalculator getCalculateAsyncWithGetCalculateInput: input completionBlock:^(BOOL success, HttpContext* context, NSNumber* response, NSError* error) { 
        //Add code here
