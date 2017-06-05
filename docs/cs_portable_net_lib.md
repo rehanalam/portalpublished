@@ -113,10 +113,10 @@ GetCalculateInput collect = new GetCalculateInput();
 var operation = Models.OperationTypeEnumHelper.ParseString("SUM");
 collect.Operation = operation;
 
-double x = 167.324500310851;
+double x = 58.5238730341773;
 collect.X = x;
 
-double y = 167.324500310851;
+double y = 58.5238730341773;
 collect.Y = y;
 
 
