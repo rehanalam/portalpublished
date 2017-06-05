@@ -142,10 +142,10 @@ GetCalculateInput collect = new GetCalculateInput();
 OperationTypeEnum operation = OperationTypeEnum.fromString("SUM");
 collect.setOperation(operation);
 
-double x = 246.424392872222;
+double x = 217.714368071274;
 collect.setX(x);
 
-double y = 246.424392872222;
+double y = 217.714368071274;
 collect.setY(y);
 
 // Invoking the API call with sample inputs
