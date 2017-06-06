@@ -139,10 +139,10 @@ collect := new (simplecalculator_pkg.GetCalculateInput)
 operation := models_pkg.Operation Type_SUM
 collect.Operation = operation
 
-x := 169.694784267198
+x := 44.0901724966663
 collect.X = x
 
-y := 169.694784267198
+y := 44.0901724966663
 collect.Y = y
 
 
